@@ -14,5 +14,3 @@ index=$(($RANDOM % $size))
 output="${output} ${three[$index]}!"
 echo "${output}" | /usr/games/lolcat -f
 echo
-~
-i
